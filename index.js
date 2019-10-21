@@ -28,7 +28,7 @@ module.exports = {
   countLetters,
   countOnly,
   eqArrays,
-  Objects,
+  eqObjects,
   findKey,
   findKeyByValue,
   flatten,
